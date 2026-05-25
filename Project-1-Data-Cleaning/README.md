@@ -1,13 +1,21 @@
 # Project 1 — Data Cleaning
 
-This project focuses on:
-- Data understanding
-- Missing value handling
-- Duplicate validation
-- Data formatting and validation
-- Exporting clean datasets
+## Objective
+Clean and validate raw transactional data
+using Python and Pandas.
 
-Tools used:
+## Workflow
+- Dataset Understanding
+- Missing Value Handling
+- Duplicate Validation
+- Data Formatting & Validation
+- Export Clean Dataset
+
+## Tools Used
 - Python
 - Pandas
 - Google Colab
+
+## Output
+- clean_data.csv
+- clean_data.xlsx
