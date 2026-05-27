@@ -5,7 +5,7 @@ related to Data Analytics and AI.
 
 ## Projects
 - Project 1 — Data Cleaning
-- Project 2 — 
+- Project 2 — Exploratory Data Analysis
 - Project 3 —
 - Project 4 — 
 
