@@ -7,7 +7,7 @@ related to Data Analytics and AI.
 - Project 1 — Data Cleaning
 - Project 2 — Exploratory Data Analysis
 - Project 3 — SQL Data Analysis
-- Project 4 — 
+- Project 4 — Data-Visualization
 
 ## Tools Used
 - Python
