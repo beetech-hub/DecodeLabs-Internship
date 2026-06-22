@@ -52,4 +52,6 @@ The objective of this dashboard is to:
 Dashboard PDF is available in:
 
 ```text
-dashboard/E-Commerce_Sales_Performance_Dashboard.pdf
+## Dashboard File
+
+📄 [View Dashboard PDF](dashboard/E-Commerce_Sales_Performance_Dashboard.pdf)
